@@ -2,6 +2,9 @@
 
 # CIFAR-10 Image Classification — Multi-Level Deep Learning Approach
 
+📌 **Google Colab Notebook:**  
+*(https://colab.research.google.com/drive/1Xv9LKkDpPjesW6sCrgjW-9cdnN3fIg1B?usp=sharing)*
+
 ## Overview
 
 This repository documents my step-by-step approach to solving the CIFAR-10 image classification task using deep learning.  
@@ -519,7 +522,7 @@ This structured approach ensures clarity, reproducibility, and strong performanc
 ---
 
 📌 **Google Colab Notebook:**  
-*(Link will be added here)*
+*(https://colab.research.google.com/drive/1Xv9LKkDpPjesW6sCrgjW-9cdnN3fIg1B?usp=sharing)*
 
 ## Results Summary
 
